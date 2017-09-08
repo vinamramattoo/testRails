@@ -66,4 +66,12 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.idea
+/.idea/
+/.idea/dataSources.local.xml
+/.idea/misc.xml
+/.idea/testRails.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/dataSources/
+/.idea/workspace.xml
+/.idea/dataSources.xml
